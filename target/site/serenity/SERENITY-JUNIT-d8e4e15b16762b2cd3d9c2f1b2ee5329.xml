@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="features.VerifyEnglishTest" skipped="0" tests="1" time="13.19" timestamp="2017-02-45 09:20:43"><testcase classname="features.VerifyEnglishTest" name="On selecting english as an option, user should be redirected to a page which contains text in english"/></testsuite>
